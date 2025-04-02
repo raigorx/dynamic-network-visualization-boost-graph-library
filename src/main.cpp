@@ -11,7 +11,7 @@
 #include "graph_event_queue.hpp"
 #include "graph_renderer.hpp"
 
-const double ANIMATOR_STEPS_PER_MONTH = 120.0;
+const double ANIMATOR_STEPS_PER_MONTH = 2200.0;
 const float RENDERER_EYE_Z = 500.0f;
 const double TOPOLOGY_SCALING = 100.0;
 
